@@ -7,6 +7,7 @@ This is a blank application  created
 * Go to work
 * Break
 * Sleep
+* Other...
 
 by _**Yuttakrong.J**_
 

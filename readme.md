@@ -8,6 +8,7 @@ This is a blank application  created
 * Break
 * Sleep
 * Other...
+* bla bla bla
 
 by _**Yuttakrong.J**_
 

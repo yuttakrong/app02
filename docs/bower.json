@@ -1,0 +1,21 @@
+{
+  "name": "docs",
+  "homepage": "https://github.com/yuttakrong/app02",
+  "authors": [
+    "yuttakrong junsom <yuttakrong.j@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
